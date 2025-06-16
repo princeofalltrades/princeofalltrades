@@ -6,3 +6,6 @@
 - 📫 How to reach me: pls don't
 - 😄 Pronouns: in/they/sara
 - ⚡ Fun fact: Bald people have hairs
+
+
+  ![snake gif](https://github.com/princeofalltrades/princeofalltrades/blob/output/github-snake-dark.svg)
